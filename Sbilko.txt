@@ -3,6 +3,40 @@
 Go to Church.
 Read the Holy Bible, the Holy Fathers and Mothers, and the Lives of the Saints.
 
+
+nano, vi, emacs M-x cua-mode for Ctrl + z/x/c/v
+
+M-x list-packages After, find the package ergoemacs-mode 
+and install it with 
+Then add the following to your ~/.emacs or ~/.emacs.d/init.el file:
+
+(package-initialize)
+(require 'ergoemacs-mode)
+
+https://ergoemacs.github.io/
+
+emacs org-mode 
+emacs' notebook and mail themes from reddit 
+emacs helm
+
+Email claws
+chrony
+
+elinks --> option manager --> user interface --> sessions --> homepage uri --> lite.duckduckgo.com/lite
+
+sudo poweroff 
+sudo reboot 
+sudo systemctl suspend 
+
+manual 
+manpages 
+--help 
+
+apt search 
+apt show
+
+
+
 If current target is init (instead of systemd), then do the following:
 sudo nano /etc/default/grub
 GRUB_CMDLINE_LINUX_DEFAULT="quiet"
@@ -101,7 +135,7 @@ https://github.com/scivision/office-headless
 
 Word processing: wordgrinder
 Excel/Spreadsheet: visicalc, sc (for spreadsheet calculator)
-Power Point / Slides: tpp text presentation program)
+Power Point / Slides: tpp (text presentation program)
 
 terminal email
 
