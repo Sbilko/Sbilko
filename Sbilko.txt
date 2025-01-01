@@ -1,0 +1,204 @@
+ 
+
+Go to Church.
+Read the Holy Bible, the Holy Fathers and Mothers, and the Lives of the Saints.
+
+If current target is init (instead of systemd), then do the following:
+sudo nano /etc/default/grub
+GRUB_CMDLINE_LINUX_DEFAULT="quiet"
+and modifying it into
+GRUB_CMDLINE_LINUX_DEFAULT="text"
+update-grub
+https://superuser.com/questions/974797/how-to-boot-a-linux-system-without-graphical-server
+
+
+Copy paste from /etc/inittab:
+# systemd uses 'targets' instead of runlevels. By default, there are two main targets:
+#
+# multi-user.target: analogous to runlevel 3
+# graphical.target: analogous to runlevel 5
+#
+# To view current default target, run:
+# systemctl get-default
+#
+# To set a default target, run:
+# systemctl set-default TARGET.target
+#
+Hence, to run only CLI you can set:
+systemctl set-default multi-user.target
+
+
+Systemd.
+view current target:
+systemctl get-default
+
+To switch from GUI to CLI:
+systemctl isolate multi-user.target
+
+To switch from CLI to GUI:
+systemctl isolate graphical.target
+
+To set the CLI as a default runlevel (target in systemd terminology):
+systemctl set-default multi-user.target
+
+Analogously for GUI:
+systemctl set-default graphical.target
+
+*CLI = Command Line Interface = command-line mode
+
+
+start linux without Graphical User Interface (GUI) by pressing
+going to
+and typing
+
+and make it permanent by
+
+https://www.baeldung.com/linux/boot-linux-command-line-mode
+
+To anyway start the permanently disabled GUI:
+startx
+
+
+sudo apt update
+sudo apt upgrade
+sudo apt install
+
+
+Light window managers: 
+i3 
+
+and other 
+
+
+Terminal User Interface (TUI): efficient, lasting, stable, not spyware,
+Multiplexer: kitty, vtm, tmux (mouse), zellij, gnu screen, byobu
+Browser: elinks, carbonyl, browsh, w3m, links, lynx, 
+Email: mutt, notmuch,
+File Manager: ranger, mc
+Task manager: htop, btop
+Wifi manager: wavemon
+Time: calendar, calcurse
+Disk space viewer: ncdc, ncdu, ncdu2
+Music: cmus
+Video: mplayer 
+youtube: ytfzf 
+
+Terminal mouse 
+gpm (general purpose mouse) 
+
+Graphical mouse 
+
+
+Switch between Terminal tabs: Ctrl + Alt + F1-F7 
+
+
+Using LibreOffice in the Terminal
+terminal libreoffice
+https://opensource.com/article/21/3/libreoffice-command-line
+https://commandmasters.com/commands/libreoffice-linux/
+
+https://github.com/scivision/office-headless
+
+Word processing: wordgrinder
+Excel/Spreadsheet: visicalc, sc (for spreadsheet calculator)
+Power Point / Slides: tpp text presentation program)
+
+terminal email
+
+terminal status bar:
+Stux
+and also https://github.com/justincampbell/terminal-status-bar
+
+apt list --installed
+clickable terminal list of installed programs in linux
+linux start menu in the terminal
+
+terminal desktop environment
+
+
+Terminal emulator: Kitty (make it default)
+sudo update-alternatives --config x-terminal-emulator
+
+Terminal Shell: bash autocompletion, zsh autocompletion, zim
+
+Zsh IMproved (zim)
+https://github.com/zimfw/zimfw
+With curl:
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+With wget:
+wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+
+chsh -s $(which zsh)
+
+chsh
+/bin/zsh
+echo $SHELL
+
+
+Terminal bottom status bar
+Terminal start menu
+
+
+tmux - How to enable mouse:
+git clone https://github.com/dreamsofcode-io/tmux/blob/main/tmux.conf
+setw -g mouse on
+set-option -g default-shell /bin/zsh
+tmux source-file ~/tmux.conf
+
+
+vtm Monotty Desktopio
+wget https://github.com/directvt/vtm/releases/latest/download/vtm_linux_x86_64.zip
+
+unzip vtm_linux_x86_64.zip
+unzip  .tar
+
+sudo ln -s /home/sbilko/Desktop/vtm /usr/bin/
+
+https://terminalroot.com/meet-monotty-desktopio-a-desktop-environment-on-your-terminal/
+
+
+Weather:
+curl wttr.in
+curl wttr.in/sliven
+curl wttr.in/terrassa
+curl wttr.in/sherbrooke
+
+
+elinks
+https://duckduckgo.com
+https://lite.duckduckgo.com/lite/
+https://html.duckduckgo.com/html/
+
+
+Carbonyl - Chromium based browser
+$ wget https://github.com/fathyb/carbonyl/releases/latest/download/carbonyl.linux-amd64.zip
+
+$ unzip carbonyl.linux-amd64.zip && mv carbonyl-*/ carbonyl/
+$ ./carbonyl/carbonyl
+
+sudo ln -s /home/sbilko/Desktop/carbonyl-0.0.3/carbonyl /usr/bin/
+
+
+
+Browsh - browser
+https://github.com/browsh-org/browsh/releases/download/v1.8.0/browsh_1.8.0_linux_amd64.deb
+
+
+emacs' eww browser
+and emacs' email client
+
+
+Kitty can open images in the terminal too.
+
+
+
+4. If all you want is a text login, even when a graphical session has started, remember that the combination Ctrl+Alt+F1 (or F2-F6) will give you just that, a textual login. Furthermore, you can then disable your Window Manager from within this textual login,
+
+sudo systemctl stop gdm
+sudo systemctl disable sddm
+start, enable
+
+(ord kdm, lightdm, sddm,, or whatever you use), and there you have a purely textual login, no graphical session running.
+https://superuser.com/questions/974797/how-to-boot-a-linux-system-without-graphical-server
+
+
