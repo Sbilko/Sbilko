@@ -3,6 +3,8 @@
 Go to Church.
 Read the Holy Bible, the Holy Fathers and Mothers, and the Lives of the Saints.
 
+Download the legendary rose princess songs
+
 
 nano, vi, emacs M-x cua-mode for Ctrl + z/x/c/v
 
@@ -19,7 +21,7 @@ emacs org-mode
 emacs' notebook and mail themes from reddit 
 emacs helm
 
-Email claws
+Email claws (gui) 
 chrony
 
 elinks --> option manager --> user interface --> sessions --> homepage uri --> lite.duckduckgo.com/lite
