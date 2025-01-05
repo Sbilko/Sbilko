@@ -212,12 +212,10 @@ curl wttr.in/sliven
 curl wttr.in/terrassa
 curl wttr.in/sherbrooke
 
-
 elinks
 https://duckduckgo.com
 https://lite.duckduckgo.com/lite/
 https://html.duckduckgo.com/html/
-
 
 Carbonyl - Chromium based browser
 $ wget https://github.com/fathyb/carbonyl/releases/latest/download/carbonyl.linux-amd64.zip
