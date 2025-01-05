@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-http://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
+https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
 
 https://holycrossyakima.org/resources.asp 
 
-http://richardwurmbrandbio.info/prepare.html 
+https://richardwurmbrandbio.info/prepare.html 
 
 https://archive.org/details/ravishedarmenia00mard 
 
