@@ -52,7 +52,7 @@ sudo nano /etc/default/grub
 GRUB_CMDLINE_LINUX_DEFAULT="quiet"
 and modifying it into
 GRUB_CMDLINE_LINUX_DEFAULT="text"
-update-grub
+sudo update-grub
 https://superuser.com/questions/974797/how-to-boot-a-linux-system-without-graphical-server
 
 
