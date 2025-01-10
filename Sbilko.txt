@@ -46,6 +46,9 @@ manpages
 apt search 
 apt show
 
+https://www.google.com/search?q=mount+usb+in+terminal+linux 
+https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal 
+
 
 If current target is init (instead of systemd), then do the following:
 sudo nano /etc/default/grub
