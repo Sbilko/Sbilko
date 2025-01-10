@@ -2,6 +2,8 @@
 
 https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
 
+https://archive.org/details/lifeofvirginmary0000unse 
+
 https://holycrossyakima.org/resources.asp 
 
 https://richardwurmbrandbio.info/prepare.html 
