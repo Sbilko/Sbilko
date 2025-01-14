@@ -16,7 +16,8 @@ https://archive.org/details/ravishedarmenia00mard
 
 
 Termux (Android 5+): 
-apt update && apt upgrade && apt install nano mc elinks htop man wget zsh && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
+apt update 
+&& apt upgrade && apt install nano mc elinks htop man wget zsh && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
 Linux without xorg: 
 emacs ranger btop wavemon calcurse 
