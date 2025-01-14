@@ -14,6 +14,31 @@ https://richardwurmbrandbio.info/prepare.html
 https://archive.org/details/ravishedarmenia00mard 
 
 
+
+Termux (Android 5+): 
+     apt update && apt upgrade && apt install nano mc elinks htop man wget zsh 
+
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh 
+
+Linux: 
+sudo apt update && apt upgrade && apt install nano mc elinks htop man wget zsh 
+emacs ranger btop wavemon calcurse 
+
+
+Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
+Text Editor: nano, emacs, vim, 
+Multiplexer: kitty, vtm, tmux (mouse), zellij, gnu screen, byobu
+Browser: elinks, carbonyl, browsh, w3m w3m-img, links, lynx, links2, 
+Email: mutt, notmuch,
+File Manager: ranger, mc
+Task manager: htop, btop
+Wifi manager: wavemon
+Time: calendar, calcurse
+Disk space viewer: ncdc, ncdu, ncdu2
+Music: cmus
+Video: mplayer 
+
+
 Download the legendary rose princess songs
 
 
@@ -126,28 +151,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install 
 
-Termux (Android 5+): 
-     apt update && apt upgrade && apt install nano mc elinks htop man wget zsh 
 
-curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh 
-
-Linux: 
-sudo apt update && apt upgrade && apt install nano mc elinks htop man wget zsh 
-emacs ranger btop wavemon calcurse 
-
-
-Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
-Text Editor: nano, emacs, vim, 
-Multiplexer: kitty, vtm, tmux (mouse), zellij, gnu screen, byobu
-Browser: elinks, carbonyl, browsh, w3m w3m-img, links, lynx, links2, 
-Email: mutt, notmuch,
-File Manager: ranger, mc
-Task manager: htop, btop
-Wifi manager: wavemon
-Time: calendar, calcurse
-Disk space viewer: ncdc, ncdu, ncdu2
-Music: cmus
-Video: mplayer 
 youtube: ytfzf 
 
 GNU core-utils: cd, ....... 
