@@ -46,7 +46,13 @@ manpages
 apt search 
 apt show
 
+Ubuntu Server Command Line Interface: https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf 
+
+ErgoEmacs keys: https://ergoemacs.github.io/ergoemacs-extras/ergo-layouts/ergoemacs-layout-us.png 
+
+
 https://www.google.com/search?q=mount+usb+in+terminal+linux 
+
 https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal 
 
 
@@ -272,7 +278,6 @@ lmde-6-cinnamon-32bit.iso
 Ubuntu Server: 
 https://ubuntu.com/download/server 
 ubuntu-24.04.1-live-server-amd64.iso 
-It's only Command Line Interface: https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf 
 
 GNU Guix System: 
 https://guix.gnu.org/en/download/ 
