@@ -127,7 +127,7 @@ sudo apt upgrade
 sudo apt install 
 
 Termux (Android 5+): 
-apt update && apt upgrade && apt install nano mc elinks htop man wget zsh 
+     apt update && apt upgrade && apt install nano mc elinks htop man wget zsh 
 
 curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh 
 
