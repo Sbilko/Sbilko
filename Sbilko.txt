@@ -15,11 +15,11 @@ https://archive.org/details/ravishedarmenia00mard
 
 
 Termux (Android 5+): 
-apt update && apt upgrade && apt install tmux nano mc elinks htop man wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
+apt update && apt upgrade && apt install tmux nano mc elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
 
 Linux without xorg: 
-emacs ranger btop wavemon calcurse 
+chrony emacs ranger btop wavemon calcurse 
 
 chsh -s /bin/zsh 
 
@@ -40,7 +40,8 @@ File Manager: ranger, mc
 Task manager: htop, btop
 Wifi manager: wavemon
 Time: calendar, calcurse
-Disk space viewer: ncdc, ncdu, ncdu2
+Disk space viewer: ncdu, ncdu2 
+SSL: ncdc 
 Music: cmus
 Video: mplayer 
 
