@@ -124,7 +124,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install 
 
-sudo apt update & apt upgrade & apt install nano mc emacs elinks htop btop wavemon 
+sudo apt update && apt upgrade && apt install nano mc elinks htop btop wavemon man 
 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
