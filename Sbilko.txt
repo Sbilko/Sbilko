@@ -124,7 +124,14 @@ sudo apt update
 sudo apt upgrade
 sudo apt install 
 
-sudo apt update && apt upgrade && apt install nano mc elinks htop btop wavemon man 
+Termux (Android 5+): 
+apt update && apt upgrade && apt install nano mc elinks htop man 
+
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh 
+
+Linux: 
+apt update && apt upgrade && apt install nano mc elinks htop man 
+emacs ranger btop wavemon calcurse 
 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
