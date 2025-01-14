@@ -21,8 +21,10 @@ apt update && apt upgrade && apt install nano mc elinks htop man wget git zsh &&
 Linux without xorg: 
 emacs ranger btop wavemon calcurse 
 
+wget https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf && wget https://ergoemacs.github.io/ergoemacs-extras/ergo-layouts/ergoemacs-layout-us.png 
+
 Linux with xorg: 
-vtm carbonyl browsh 
+kitty vtm carbonyl browsh 
 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
