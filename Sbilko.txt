@@ -308,6 +308,8 @@ Ubuntu Server:
 https://ubuntu.com/download/server 
 ubuntu-24.04.1-live-server-amd64.iso 
 
+
+
 How To Upgrade Ubuntu 18.04 to 20.04 LTS using command line: 
 https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/ 
 
