@@ -27,6 +27,9 @@ wget https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet
 
 git clone https://github.com/dreamsofcode-io/tmux 
 
+https://duckduckgo.com/?q=ergoemacs+config&ia=web 
+https://github.com/ergoemacs/ergoemacs-config 
+
 Linux with xorg: 
 kitty vtm carbonyl browsh 
 
