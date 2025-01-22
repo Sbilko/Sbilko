@@ -35,6 +35,10 @@ kitty vtm carbonyl browsh
 
 command line ai
 terminal ai 
+https://github.com/sigoden/aichat 
+
+Get vtm, carbonyl and others to work without X Window System, by making UTF-8 the terminal default font. 
+And learn how to start X Window System in Termux on Android. 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
 Text Editor: nano, emacs, vim, 
