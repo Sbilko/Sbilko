@@ -35,6 +35,7 @@ kitty vtm carbonyl browsh
 
 command line ai
 terminal ai 
+https://github.com/TheR1D/shell_gpt 
 https://github.com/sigoden/aichat 
 
 Get vtm, carbonyl and others to work without X Window System, by making UTF-8 the terminal default font. 
