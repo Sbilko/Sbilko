@@ -41,6 +41,8 @@ https://github.com/sigoden/aichat
 Get vtm, carbonyl and others to work without X Window System, by making UTF-8 the terminal default font. 
 And learn how to start X Window System in Termux on Android. 
 
+google keyboard's next word autosuggest is nice, I want it for normal Linux and Windows typing, and for the Linux command line. 
+
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
 Text Editor: nano, emacs, vim, 
 Multiplexer: kitty, vtm, tmux (mouse), zellij, gnu screen, byobu
