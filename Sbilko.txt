@@ -33,6 +33,8 @@ https://github.com/ergoemacs/ergoemacs-config
 Linux with xorg: 
 kitty vtm carbonyl browsh 
 
+command line ai
+terminal ai 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
 Text Editor: nano, emacs, vim, 
