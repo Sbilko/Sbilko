@@ -36,7 +36,9 @@ Nala instead of apt: https://christitus.com/stop-using-apt/
 Stop using APT - Chris Titus Tech: https://www.youtube.com/watch?v=oroSkR4Nn_w 
 Aptitude Linux Command | Stop using APT and Love Linux - Chris Titus Tec: https://www.youtube.com/watch?v=xca3Ywf54N0 
 command for terminal desktop environment 
+
 Gnome terminal as a Desktop Environment User Interface - necopost: https://www.youtube.com/watch?v=W_W9nM6C7ow 
+http://www.necopost.com/search/label/desktop%20environment  
 TUI Sound control: alsamixer 
 
 
