@@ -30,6 +30,8 @@ git clone https://github.com/dreamsofcode-io/tmux
 https://duckduckgo.com/?q=ergoemacs+config&ia=web 
 https://github.com/ergoemacs/ergoemacs-config 
 
+https://github.com/devblackops/Terminal-Icons 
+
 Linux with xorg: 
 kitty vtm carbonyl browsh 
 
