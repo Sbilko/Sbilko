@@ -30,7 +30,11 @@ git clone https://github.com/dreamsofcode-io/tmux
 https://duckduckgo.com/?q=ergoemacs+config&ia=web 
 https://github.com/ergoemacs/ergoemacs-config 
 
+
 https://github.com/devblackops/Terminal-Icons 
+Nala instead of apt: https://christitus.com/stop-using-apt/ 
+Stop using APT - Chris Titus Tech: https://www.youtube.com/watch?v=oroSkR4Nn_w 
+
 
 Linux with xorg: 
 kitty vtm carbonyl browsh 
