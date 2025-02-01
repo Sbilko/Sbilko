@@ -31,6 +31,8 @@ https://duckduckgo.com/?q=ergoemacs+config&ia=web
 https://github.com/ergoemacs/ergoemacs-config 
 
 
+https://www.linuxmint.com/rel_xia.php 
+
 https://github.com/devblackops/Terminal-Icons 
 Nala instead of apt: https://christitus.com/stop-using-apt/ 
 Stop using APT - Chris Titus Tech: https://www.youtube.com/watch?v=oroSkR4Nn_w 
