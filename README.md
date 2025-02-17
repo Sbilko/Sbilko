@@ -6,9 +6,14 @@ https://archive.org/details/lifeofvirginmary0000unse
 
 https://holycrossyakima.org/resources.asp 
 
+https://richardwurmbrandfoundation.com/pdfs/puc-english.pdf 
+https://web.archive.org/web/20240415034144/http://richardwurmbrandbio.info/prepare.html 
 https://richardwurmbrandbio.info/prepare.html 
 
 https://archive.org/details/ravishedarmenia00mard 
+
+Discipline Equals Freedom: Field Manual by Jocko Willink 
+https://www.grahammann.net/book-notes/discipline-equals-freedom-field-manual-jocko-willink 
 
 <!--
 **Sbilko/Sbilko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
