@@ -77,7 +77,7 @@ Music: cmus
 Video: mplayer 
 
 
-Download the legendary rose princess songs
+Download the legendary rose bride nigoro songs
 
 
 nano, vi, emacs M-x cua-mode for Ctrl + z/x/c/v
