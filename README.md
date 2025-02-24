@@ -1,5 +1,4 @@
-## Hi there 👋
-Terminal Desktop Environment 
+# Terminal Desktop Environment 
 
 Gnome terminal as a Desktop Environment User Interface - necopost: https://www.youtube.com/watch?v=W_W9nM6C7ow 
 http://www.necopost.com/2011/11/gnome-terminal-as-lightweight-desktop.html 
@@ -27,6 +26,8 @@ https://www.grahammann.net/book-notes/discipline-equals-freedom-field-manual-joc
 
 <!--
 **Sbilko/Sbilko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 
