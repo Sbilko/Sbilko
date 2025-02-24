@@ -1,4 +1,4 @@
-## Terminal Desktop Environment 
+### Terminal Desktop Environment 
 
 Gnome terminal as a Desktop Environment User Interface - necopost: https://www.youtube.com/watch?v=W_W9nM6C7ow 
 http://www.necopost.com/2011/11/gnome-terminal-as-lightweight-desktop.html 
