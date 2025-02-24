@@ -1,4 +1,13 @@
 ## Hi there 👋
+Terminal Desktop Environment 
+
+Gnome terminal as a Desktop Environment User Interface - necopost: https://www.youtube.com/watch?v=W_W9nM6C7ow 
+http://www.necopost.com/2011/11/gnome-terminal-as-lightweight-desktop.html 
+
+Instantly set up all the tools you need in one script: 
+
+Termux (Android 5+): 
+apt update && apt upgrade && apt install tmux nano mc elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
 https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
 
