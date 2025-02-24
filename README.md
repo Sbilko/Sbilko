@@ -9,6 +9,7 @@ Instantly set up all the tools you need in one script:
 Termux (Android 5+): 
 apt update && apt upgrade && apt install tmux nano mc elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
+
 https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
 
 https://archive.org/details/lifeofvirginmary0000unse 
