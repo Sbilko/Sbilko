@@ -9,16 +9,20 @@ Termux (Android 5+):
 apt update && apt upgrade && apt install tmux nano mc elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
 
+Testament of St. John of Rila 
 https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
 
+The Life of the Most Holy Virgin Mary, the Theotokos 
 https://archive.org/details/lifeofvirginmary0000unse 
 
 https://holycrossyakima.org/resources.asp 
 
+Preparing for the Underground Church 
 https://richardwurmbrandfoundation.com/pdfs/puc-english.pdf 
 https://web.archive.org/web/20240415034144/http://richardwurmbrandbio.info/prepare.html 
 https://richardwurmbrandbio.info/prepare.html 
 
+The Armenian Genocide 
 https://archive.org/details/ravishedarmenia00mard 
 
 Discipline Equals Freedom: Field Manual by Jocko Willink 
