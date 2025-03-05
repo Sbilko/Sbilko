@@ -25,6 +25,8 @@ https://richardwurmbrandbio.info/prepare.html
 The Armenian Genocide 
 https://archive.org/details/ravishedarmenia00mard 
 
+https://www.copticsolidarity.org/wp-content/uploads/2025/01/hidden-crimes-public-deception-report-f-branded.pdf 
+
 Discipline Equals Freedom: Field Manual by Jocko Willink 
 https://www.grahammann.net/book-notes/discipline-equals-freedom-field-manual-jocko-willink 
 
