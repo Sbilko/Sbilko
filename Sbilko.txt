@@ -92,7 +92,8 @@ Download the legendary rose bride nigoro songs
 
 nano, vi, emacs M-x cua-mode for Ctrl + z/x/c/v
 
-M-x list-packages After, find the package ergoemacs-mode 
+M-x list-packages 
+Then, find the package ergoemacs-mode 
 and install it with 
 Then add the following to your ~/.emacs or ~/.emacs.d/init.el file:
 
