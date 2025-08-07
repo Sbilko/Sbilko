@@ -30,6 +30,8 @@ Termux (Android 5+):
 apt update && apt upgrade && apt install tmux nano elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
 mc (midnight commander requires too weighty dependencies in Android) 
+emacs 
+wavemon ( apt install root-repo ) 
 
 
 Linux without xorg: 
