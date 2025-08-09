@@ -27,7 +27,7 @@ https://www.grahammann.net/book-notes/discipline-equals-freedom-field-manual-joc
 
 
 Termux (Android 5+): 
-apt update && apt upgrade && apt install tmux nano elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
+apt update && apt upgrade && apt install tmux nano nnn elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
 nnn
 
