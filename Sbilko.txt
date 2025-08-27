@@ -56,6 +56,7 @@ https://www.linuxmint.com/rel_xia.php
 
 https://github.com/devblackops/Terminal-Icons 
 Nala improved package manager, instead of apt: https://christitus.com/stop-using-apt/ 
+also Nix 
 Stop using APT - Chris Titus Tech: https://www.youtube.com/watch?v=oroSkR4Nn_w 
 Aptitude Linux Command | Stop using APT and Love Linux - Chris Titus Tec: https://www.youtube.com/watch?v=xca3Ywf54N0 
 command for terminal desktop environment 
