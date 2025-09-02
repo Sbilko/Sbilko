@@ -212,6 +212,7 @@ sudo apt update
 sudo apt upgrade 
 sudo apt search 
 sudo apt install 
+sudo apt dist-upgrade 
 
 Linux System Maintenance: 
 https://linuxvox.com/blog/debian-linux-32-bit/ 
