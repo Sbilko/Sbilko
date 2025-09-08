@@ -32,7 +32,11 @@ apt update && apt upgrade && apt install tmux nano nnn elinks htop man ncdu ncdu
 apt install root-repo 
 apt install wavemon 
 
-nnn
+nnn 
+chrony
+gparted
+
+sudo fdisk -l 
 
 mc (midnight commander requires too weighty dependencies in Android) 
 emacs 
