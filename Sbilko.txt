@@ -104,6 +104,9 @@ SSL: ncdc
 Music: cmus
 Video: mplayer 
 
+Emacs mail client: 
+https://stallman.org/stallman-computing.html 
+
 
 Download the legendary rose bride nigoro songs
 
