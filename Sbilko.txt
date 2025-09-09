@@ -36,7 +36,13 @@ nnn
 chrony
 gparted
 
+
+Display the partition table:
 sudo fdisk -l 
+   https://www.dedoimedo.com/computers/grub.html 
+Display the mounted partitions:
+cat /etc/fstab
+
 
 mc (midnight commander requires too weighty dependencies in Android) 
 emacs 
