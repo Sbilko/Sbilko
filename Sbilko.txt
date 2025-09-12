@@ -36,6 +36,8 @@ nnn
 chrony 
 fdisk 
 gparted 
+screenfetch 
+neofetch 
 
 
 Display the partition table:
