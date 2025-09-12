@@ -168,7 +168,7 @@ https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-t
 
 If current target is init (instead of systemd), then do the following:
 sudo nano /etc/default/grub
-GRUB_CMDLINE_LINUX_DEFAULT="quiet"
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
 and modifying it into
 GRUB_CMDLINE_LINUX_DEFAULT="text"
 sudo update-grub
