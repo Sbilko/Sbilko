@@ -90,6 +90,7 @@ TUI Sound control: alsamixer
 
 Linux with xorg: 
 kitty vtm carbonyl browsh 
+synaptic (gui package manager) 
 
 command line ai
 terminal ai 
