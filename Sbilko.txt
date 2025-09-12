@@ -33,8 +33,9 @@ apt install root-repo
 apt install wavemon 
 
 nnn 
-chrony
-gparted
+chrony 
+fdisk 
+gparted 
 
 
 Display the partition table:
