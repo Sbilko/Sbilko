@@ -53,6 +53,7 @@ wavemon ( apt install root-repo )
 
 
 Linux without xorg: 
+sudo apt update && apt install nala && nala upgrade && nala install 
 sudo (the same as Termux but without ncdu2, and with the following:) 
 chrony emacs ranger btop wavemon calcurse 
 
