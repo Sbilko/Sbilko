@@ -386,6 +386,12 @@ Linux Mint XFCE 64-bit:
 https://linuxmint.com/download.php 
 linuxmint-22-xfce-64bit.iso 
 
+Zorin OS: 
+https://zorin.com/os/download/ 
+Zorin-OS-17.3-Core-64-bit-r2.iso 
+
+script Zorin OS Pro: https://github.com/NanashiTheNameless/Zorin-OS-Pro 
+
 Linux Mint debian edition 32-bit: 
 https://linuxmint.com/download_lmde.php 
 lmde-6-cinnamon-32bit.iso 
