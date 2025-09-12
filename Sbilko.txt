@@ -110,7 +110,7 @@ File Manager: ranger, mc
 Task manager: htop, btop
 Wifi manager: wavemon
 Time: calendar, calcurse
-Disk space viewer: ncdu, ncdu2 
+Disk space viewer: ncdu, (ncdu2) 
 SSL: ncdc 
 Music: cmus
 Video: mplayer 
