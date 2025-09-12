@@ -50,6 +50,7 @@ wavemon ( apt install root-repo )
 
 
 Linux without xorg: 
+(it's the same but without ncdu2, and with the following) 
 chrony emacs ranger btop wavemon calcurse 
 
 chsh -s /bin/zsh 
