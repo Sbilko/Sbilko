@@ -51,7 +51,7 @@ wavemon ( apt install root-repo )
 
 
 Linux without xorg: 
-sudo (the same as Termux but without ncdu2, and with the following:)   (and "/bin/zsh"? ) 
+sudo (the same as Termux but without ncdu2, and with the following:) 
 chrony emacs ranger btop wavemon calcurse 
 
 chsh -s /bin/zsh 
