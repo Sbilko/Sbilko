@@ -104,16 +104,18 @@ google keyboard's next word autosuggest is nice, I want it for normal Linux and 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
 Text Editor: nano, emacs, vim, 
-Multiplexer: kitty, vtm, tmux (mouse), zellij, (gnu) screen, byobu
+Multiplexer: kitty, vtm, tmux (mouse), zellij, (gnu) screen, byobu 
 Browser: elinks, carbonyl, browsh, w3m w3m-img, links, lynx, links2, 
 Email: mutt, notmuch, claws-mail (gui) 
-File Manager: ranger, mc
-Task manager: htop, btop
-Wifi manager: wavemon
-Time: calendar, calcurse
+File Manager: ranger, mc 
+Task manager: htop, btop 
+Wifi viewer: wavemon 
+Network/Wifi manager: 
+Time: calendar, calcurse 
 Disk space viewer: ncdu, (ncdu2) 
 SSL: ncdc 
-Music: cmus
+Music: cmus 
+Volume manager: alsamixer 
 Video: mplayer 
 
 Emacs mail client: 
