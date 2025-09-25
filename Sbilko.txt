@@ -385,6 +385,10 @@ tiny11 2311 x64.iso
 tiny10 x64 23h2.iso 
 tiny10 2303 x86.iso 
 
+Linuxfx Winux 7, 10, 11 - A Smart, Easy Way to Transition From Windows 
+https://winuxos.org/ 
+
+
 Linux Mint XFCE 64-bit: 
 https://linuxmint.com/download.php 
 linuxmint-22-xfce-64bit.iso 
