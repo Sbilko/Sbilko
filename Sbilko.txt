@@ -399,6 +399,9 @@ Linux Mint debian edition 32-bit:
 https://linuxmint.com/download_lmde.php 
 lmde-6-cinnamon-32bit.iso 
 
+Try a debian derivative like MX Linux 
+https://mxlinux.org/ 
+
 Ubuntu Server: 
 https://ubuntu.com/download/server 
 ubuntu-24.04.1-live-server-amd64.iso 
