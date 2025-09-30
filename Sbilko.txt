@@ -121,6 +121,8 @@ Video: mplayer
 Emacs mail client: 
 https://stallman.org/stallman-computing.html 
 
+rsync - Back up and transfer data 
+
 
 Download the legendary rose bride nigoro songs
 
