@@ -118,6 +118,8 @@ Music: cmus
 Volume manager: alsamixer 
 Video: mplayer 
 
+https://www.linuxlinks.com/100-awesome-must-have-tui-linux-apps/ 
+
 Emacs mail client: 
 https://stallman.org/stallman-computing.html 
 
