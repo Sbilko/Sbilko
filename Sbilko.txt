@@ -426,6 +426,7 @@ https://projectes.xtec.cat/linkat/el-projecte/
 
 Recuperar fitxers esborrats: 
 https://catux.org/posts/recuperar-fitxers-esborrats.html 
+https://www.cgsecurity.org/wiki/TestDisk_Download 
 
 
 GNU Guix System: 
