@@ -420,6 +420,14 @@ https://www.cyberciti.biz/faq/upgrade-update-ubuntu-using-terminal/
 How To Upgrade Ubuntu 18.04 to 20.04 LTS using command line: 
 https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/ 
 
+
+Linkat (it's always old, 22.04) 
+https://projectes.xtec.cat/linkat/el-projecte/ 
+
+Recuperar fitxers esborrats: 
+https://catux.org/posts/recuperar-fitxers-esborrats.html 
+
+
 GNU Guix System: 
 https://guix.gnu.org/en/download/ 
 guix-system-install-1.4.0.x86_64-linux.iso 
