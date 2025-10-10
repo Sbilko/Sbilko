@@ -103,7 +103,7 @@ And learn how to start X Window System in Termux on Android.
 google keyboard's next word autosuggest is nice, I want it for normal Linux and Windows typing, and for the Linux command line. 
 
 
-rsync --remove-source-files -c 
+rsync --remove-source-files -verbose 
 
 
 Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
