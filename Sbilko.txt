@@ -387,6 +387,11 @@ https://rufus.ie/downloads/
 rufus-4.6.exe or later (for latest Windows) 
 rufus-3.22.exe (for Windows 7) 
 
+I should maybe only use Computers4Christians: https://computers4christians.org/ 
+Orthodox Christian Linux, 
+Ubuntu Christian Edition: https://distrowatch.com/table.php?distribution=ubuntuce 
+
+
 Tiny10 and Tiny11, 64-bit and 32-bit: 
 https://ntdev.blog/2024/01/08/the-complete-tiny10-and-tiny11-list/ 
 tiny11 2311 x64.iso 
