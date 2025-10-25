@@ -32,6 +32,9 @@ apt update && apt upgrade && apt install tmux nano nnn elinks htop man ncdu ncdu
 apt install root-repo 
 apt install wavemon 
 
+the google Chrome Linux repository source is (so you don't need to install an old Chrome before updating to the latest Chrome) the following: 
+
+
 nnn 
 chrony 
 fdisk 
