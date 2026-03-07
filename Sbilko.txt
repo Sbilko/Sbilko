@@ -29,18 +29,165 @@ https://www.grahammann.net/book-notes/discipline-equals-freedom-field-manual-joc
 Termux (Android 5+): 
 apt update && apt upgrade && apt install tmux nano nnn elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
 
+------- 
+
+
+apt install root-repo 
+
+Linux without xorg: 
+sudo apt update && apt upgrade && apt install 
+nala tmux nano nnn elinks htop man ncdu wget git zsh && git clone https://github.com/Sbilko/Sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
+
+Unavailable in mainstream Desktop Linux Repositories (must be searched for somewhere): ncdu2 zellij byobu 
+
+sudo apt update && apt install nala && nala upgrade && nala install 
+sudo (the same as Termux but without ncdu2, and with the following:) 
+chrony emacs ranger btop wavemon calcurse 
+
+
+
+X Window System: xorg 
+
+Linux with Xorg: 
+kitty vtm carbonyl browsh 
+
+Display Managers: gdm3 sddm lxdm xdm lightdm slim wdm greetd nodm 
+
+
+
+apt list --installed 
+clickable terminal list of installed programs in linux 
+linux start menu in the terminal 
+
+terminal desktop environment 
+
+Terminal bottom status bar 
+Terminal start menu 
+
+
+The Terminal User Interface (TUI) is efficient, lasting, stable, maybe spyware, 
+Shell: bash (Bourne-Again Shell), zsh, zim, fish, (elisp), 
+Package manager: apt, synaptic (gui), mintinstall (gui), 
+apt interface: nala, nix, 
+Text Editor: nano, emacs, vim, 
+Linux info fetch: screenfetch, neofetch, 
+Multiplexer: kitty, tmux (find and enable mouse), (vtm), (gnu-) screen, (byobu), (zellij), 
+Browsers: (browsh), (carbonyl), elinks, links, links2, lynx, w3m w3m-img, 
+Email: mutt, notmuch, claws-mail (is gui), 
+File Manager: mc, ranger, nnn, 
+Task manager: htop, btop, 
+Wifi viewer: wavemon, 
+Network/Wifi manager: (xfce's networkManager applet), (there was another which I used as a useful emergency tool), 
+Time: calendar, calcurse, 
+timedate sync: chrony, (or) systemd-timesyncd, 
+Disk space viewer: ncdu, (ncdu2), 
+Partitions manager: gparted, (parted?), 
+SSL: ncdc, 
+Music: cmus, 
+Volume manager: alsamixer, (pulseaudio?), 
+Video: mplayer, 
+
+youtube: ytfzf, 
+Terminal mouse: gpm (general purpose mouse), 
+Terminal status bar: stux, 
+
+
+The Graphical User Interface (GUI) is inefficient, constantly changing, unstable, definitely spyware, 
+
+Heavy Browsers: firefox, chromium, (google chrome download link?), (brave?), 
+Office Suites: LibreOffice, OpenOffice, (WPS?), MS Office, 
+Email Programs: Thunderbird, Outlook, 
+
+
+
+
+(¿ncurses) 
+Other package managers: apt (debian, Ubuntu.deb), pacman (Arch. ),  (Red Hat.rtm) 
+
+I think these come already Pre-installed: top fdisk fsck rsync zip unzip 
+
+
+
+
+Display (Servers?)  X Window System: 
+Xorg, (X11), (Xwayland?), (Wayland), 
+
+
+
+
+(kdm) 
+gdm3 
+sddm 
+lxdm 
+xdm 
+lightdm 
+slim 
+wdm 
+greetd 
+nodm 
+
+https://wiki.debian.org/DisplayManager 
+
+
+Desktop environments: gnome kde-plasma-desktop cinnamon mate-core ubuntu-mate-desktop xfce lxde lxqt lomiri budgie enlightenment fvwm-crystal gnustep window-maker sugar 
+[ ] GNOME 
+[ ] KDE Plasma 
+[ ] Cinnamon 
+[ ] MATE 
+[ ] Xfce 
+[ ] LXDE 
+[ ] LXQt 
+Lomiri, Budgie, Enlightenment, FVWM-Crystal, GNUstep/Window Maker, Sugar   and possibly others.
+
+Other desktop environments not available in debian include Unity (1 2), pantheon, ROX, Equinox/EDE, Étoilé, CDE, artemis, Durden, trident, Lumina   and others.
+
+Window managers: openbox fluxbox compiz 
+
+Openbox 
+Fluxbox 
+Compiz 
+
+
+Tiling window managers: awesome i3 dwm notion sway wmii 
+
+
+Awesome 
+
+i3 
+
+dwm 
+
+Notion 
+
+sway 
+
+Wmii 
+
+
+Sessions
+"Sessions are usually managed by the display manager, which itself relies on Xsession.
+
+Most display managers will allow you to select which desktop environment and/or window manager you wish to run for next session, and eventually make it default.
+
+If you don't want to run a display manager to manage your sessions, you might consider using nodm - you may be comfortable merely using a screen locker (eg. XScreensaver, slock) to lock your sessions manually instead of expecting it to insist on username plus password to get in. This is likely inappropriate for servers, but may well be acceptable for a user's home system, assuming no familial trust issues.
+
+If you have no Display Manager installed at all, you can still start the X Environment from console with the startx command, which is a call to xinit."
+
+https://wiki.debian.org/DesktopEnvironment 
+
+
+sudo dmidecode -s bios-version 
+
+
+
+------- 
+
+
+
+
+
 apt install root-repo 
 apt install wavemon 
-
-the google Chrome Linux repository source is (so you don't need to install an old Chrome before updating to the latest Chrome) the following: 
-
-
-nnn 
-chrony 
-fdisk 
-gparted 
-screenfetch 
-neofetch 
 
 
 Display the partition table:
@@ -54,11 +201,6 @@ mc (midnight commander requires too weighty dependencies in Android)
 emacs 
 wavemon ( apt install root-repo ) 
 
-
-Linux without xorg: 
-sudo apt update && apt install nala && nala upgrade && nala install 
-sudo (the same as Termux but without ncdu2, and with the following:) 
-chrony emacs ranger btop wavemon calcurse 
 
 chsh -s /bin/zsh 
 
@@ -91,9 +233,7 @@ http://www.necopost.com/search/label/desktop%20environment
 TUI Sound control: alsamixer 
 
 
-Linux with xorg: 
-kitty vtm carbonyl browsh 
-synaptic (gui package manager) 
+
 
 command line ai
 terminal ai 
@@ -106,24 +246,10 @@ And learn how to start X Window System in Termux on Android.
 google keyboard's next word autosuggest is nice, I want it for normal Linux and Windows typing, and for the Linux command line. 
 
 
-rsync --remove-source-files -verbose 
+ --remove-source-files -verbose 
 
 
-Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
-Text Editor: nano, emacs, vim, 
-Multiplexer: kitty, vtm, tmux (mouse), zellij, (gnu) screen, byobu 
-Browser: elinks, carbonyl, browsh, w3m w3m-img, links, lynx, links2, 
-Email: mutt, notmuch, claws-mail (gui) 
-File Manager: ranger, mc 
-Task manager: htop, btop 
-Wifi viewer: wavemon 
-Network/Wifi manager: 
-Time: calendar, calcurse 
-Disk space viewer: ncdu, (ncdu2) 
-SSL: ncdc 
-Music: cmus 
-Volume manager: alsamixer 
-Video: mplayer 
+--------
 
 https://www.linuxlinks.com/100-awesome-must-have-tui-linux-apps/ 
 
@@ -258,12 +384,11 @@ https://wiki.debian.org/DontBreakDebian
 https://wiki.archlinux.org/title/System_maintenance 
 
 
-youtube: ytfzf 
+
 
 GNU core-utils: cd, ....... 
 
-Terminal mouse 
-gpm (general purpose mouse) 
+
 
 Graphical mouse 
 
@@ -284,15 +409,10 @@ Power Point / Slides: tpp (text presentation program)
 
 terminal email
 
-terminal status bar:
-Stux
+
 and also https://github.com/justincampbell/terminal-status-bar
 
-apt list --installed
-clickable terminal list of installed programs in linux
-linux start menu in the terminal
 
-terminal desktop environment
 
 
 
@@ -300,7 +420,7 @@ Terminal emulator: Kitty (make it default)
 sudo update-alternatives --config x-terminal-emulator
 
 
-Bourne-Again Shell: bash, zsh, fish, (elisp), 
+
 
 
 Terminal Shell: bash autocompletion, zsh autocompletion, zim
@@ -321,8 +441,7 @@ chsh
 echo $SHELL
 
 
-Terminal bottom status bar
-Terminal start menu
+
 
 
 tmux - How to enable mouse:
@@ -389,11 +508,6 @@ Rufus:
 https://rufus.ie/downloads/ 
 rufus-4.6.exe or later (for latest Windows) 
 rufus-3.22.exe (for Windows 7) 
-
-I should maybe only use Computers4Christians: https://computers4christians.org/ 
-Orthodox Christian Linux, 
-Ubuntu Christian Edition: https://distrowatch.com/table.php?distribution=ubuntuce 
-
 
 Tiny10 and Tiny11, 64-bit and 32-bit: 
 https://ntdev.blog/2024/01/08/the-complete-tiny10-and-tiny11-list/ 
