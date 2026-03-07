@@ -1,0 +1,463 @@
+ 
+
+Go to Church.
+Read the Holy Bible, the Holy Fathers and Mothers, and the Lives of the Saints.
+
+
+Testament of St. John of Rila 
+https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm 
+
+The Life of the Most Holy Virgin Mary, the Theotokos 
+https://archive.org/details/lifeofvirginmary0000unse 
+
+https://holycrossyakima.org/resources.asp 
+
+Preparing for the Underground Church 
+https://richardwurmbrandfoundation.com/pdfs/puc-english.pdf 
+https://web.archive.org/web/20240415034144/http://richardwurmbrandbio.info/prepare.html 
+https://richardwurmbrandbio.info/prepare.html 
+
+The Armenian Genocide 
+https://archive.org/details/ravishedarmenia00mard 
+
+https://www.copticsolidarity.org/wp-content/uploads/2025/01/hidden-crimes-public-deception-report-f-branded.pdf 
+
+Discipline Equals Freedom: Field Manual by Jocko Willink 
+https://www.grahammann.net/book-notes/discipline-equals-freedom-field-manual-jocko-willink 
+
+
+Termux (Android 5+): 
+apt update && apt upgrade && apt install tmux nano nnn elinks htop man ncdu ncdu2 wget git zsh && git clone https://github.com/sbilko/sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
+
+apt install root-repo 
+apt install wavemon 
+
+the google Chrome Linux repository source is (so you don't need to install an old Chrome before updating to the latest Chrome) the following: 
+
+
+nnn 
+chrony 
+fdisk 
+gparted 
+screenfetch 
+neofetch 
+
+
+Display the partition table:
+sudo fdisk -l 
+   https://www.dedoimedo.com/computers/grub.html 
+Display the mounted partitions:
+cat /etc/fstab
+
+
+mc (midnight commander requires too weighty dependencies in Android) 
+emacs 
+wavemon ( apt install root-repo ) 
+
+
+Linux without xorg: 
+sudo apt update && apt install nala && nala upgrade && nala install 
+sudo (the same as Termux but without ncdu2, and with the following:) 
+chrony emacs ranger btop wavemon calcurse 
+
+chsh -s /bin/zsh 
+
+wget https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf && wget https://ergoemacs.github.io/ergoemacs-extras/ergo-layouts/ergoemacs-layout-us.png 
+
+git clone https://github.com/dreamsofcode-io/tmux 
+
+https://duckduckgo.com/?q=ergoemacs+config&ia=web 
+https://github.com/ergoemacs/ergoemacs-config 
+
+
+https://www.linuxmint.com/rel_xia.php 
+
+https://github.com/devblackops/Terminal-Icons 
+Nala improved package manager, instead of apt: https://christitus.com/stop-using-apt/ 
+also Nix 
+and Nala 
+Stop using APT - Chris Titus Tech: https://www.youtube.com/watch?v=oroSkR4Nn_w 
+Aptitude Linux Command | Stop using APT and Love Linux - Chris Titus Tec: https://www.youtube.com/watch?v=xca3Ywf54N0 
+https://en.wikipedia.org/wiki/Aptitude_(software) 
+command for terminal desktop environment 
+
+different package managers, and systemd: 
+https://www.geeksforgeeks.org/linux-unix/understanding-package-managers-and-systemctl/ 
+
+
+Gnome terminal as a Desktop Environment User Interface - necopost: https://www.youtube.com/watch?v=W_W9nM6C7ow 
+http://www.necopost.com/2011/11/gnome-terminal-as-lightweight-desktop.html 
+http://www.necopost.com/search/label/desktop%20environment  
+TUI Sound control: alsamixer 
+
+
+Linux with xorg: 
+kitty vtm carbonyl browsh 
+synaptic (gui package manager) 
+
+command line ai
+terminal ai 
+https://github.com/TheR1D/shell_gpt 
+https://github.com/sigoden/aichat 
+
+Get vtm, carbonyl and others to work without X Window System, by making UTF-8 the terminal default font. 
+And learn how to start X Window System in Termux on Android. 
+
+google keyboard's next word autosuggest is nice, I want it for normal Linux and Windows typing, and for the Linux command line. 
+
+
+rsync --remove-source-files -verbose 
+
+
+Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
+Text Editor: nano, emacs, vim, 
+Multiplexer: kitty, vtm, tmux (mouse), zellij, (gnu) screen, byobu 
+Browser: elinks, carbonyl, browsh, w3m w3m-img, links, lynx, links2, 
+Email: mutt, notmuch, claws-mail (gui) 
+File Manager: ranger, mc 
+Task manager: htop, btop 
+Wifi viewer: wavemon 
+Network/Wifi manager: 
+Time: calendar, calcurse 
+Disk space viewer: ncdu, (ncdu2) 
+SSL: ncdc 
+Music: cmus 
+Volume manager: alsamixer 
+Video: mplayer 
+
+https://www.linuxlinks.com/100-awesome-must-have-tui-linux-apps/ 
+
+Emacs mail client: 
+https://stallman.org/stallman-computing.html 
+
+rsync - Back up and transfer data 
+
+
+Download the legendary rose bride nigoro songs
+
+
+nano, vi, emacs M-x cua-mode for Ctrl + z/x/c/v
+
+M-x list-packages 
+Then, find the package ergoemacs-mode 
+and install it with 
+Then add the following to your ~/.emacs or ~/.emacs.d/init.el file:
+
+(package-initialize)
+(require 'ergoemacs-mode)
+
+https://ergoemacs.github.io/
+
+emacs org-mode 
+emacs' notebook and mail themes from reddit 
+emacs helm
+
+Email claws-mail (gui) 
+chrony
+
+elinks --> option manager --> user interface --> sessions --> homepage uri --> lite.duckduckgo.com/lite
+
+sudo poweroff 
+sudo reboot 
+sudo systemctl suspend 
+
+manual 
+manpages 
+--help 
+
+apt search 
+apt show
+
+Ubuntu Server Command Line Interface: https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf 
+
+Linux Command Library app 
+
+ErgoEmacs keys: https://ergoemacs.github.io/ergoemacs-extras/ergo-layouts/ergoemacs-layout-us.png 
+
+
+https://www.google.com/search?q=mount+usb+in+terminal+linux 
+
+https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal 
+
+
+If current target is init (instead of systemd), then do the following:
+sudo nano /etc/default/grub
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+and modifying it into
+GRUB_CMDLINE_LINUX_DEFAULT="text"
+sudo update-grub
+https://superuser.com/questions/974797/how-to-boot-a-linux-system-without-graphical-server
+
+
+Copy paste from /etc/inittab:
+# systemd uses 'targets' instead of runlevels. By default, there are two main targets:
+#
+# multi-user.target: analogous to runlevel 3
+# graphical.target: analogous to runlevel 5
+#
+# To view current default target, run:
+# systemctl get-default
+#
+# To set a default target, run:
+# systemctl set-default TARGET.target
+#
+Hence, to run only CLI you can set:
+systemctl set-default multi-user.target
+
+
+Systemd.
+view current target:
+systemctl get-default
+
+To switch from GUI to CLI:
+systemctl isolate multi-user.target
+
+To switch from CLI to GUI:
+systemctl isolate graphical.target
+
+To set the CLI as a default runlevel (target in systemd terminology):
+systemctl set-default multi-user.target
+
+Analogously for GUI:
+systemctl set-default graphical.target
+
+*CLI = Command Line Interface = command-line mode
+
+
+start linux without Graphical User Interface (GUI) by pressing
+going to
+and typing
+
+and make it permanent by
+
+https://www.baeldung.com/linux/boot-linux-command-line-mode
+
+To anyway start the permanently disabled GUI:
+startx
+
+
+X Window System: xorg, X11, 
+Light window managers: i3, 
+and other 
+(lightweight gui desktop environments: lxde, xfce, etc.) 
+
+
+sudo apt update 
+sudo apt upgrade 
+sudo apt search 
+sudo apt install 
+
+sudo apt dist-upgrade 
+sudo apt full-upgrade 
+sudo apt --purge autoremove 
+sudo reboot 
+
+Linux System Maintenance: 
+https://linuxvox.com/blog/debian-linux-32-bit/ 
+https://wiki.debian.org/DontBreakDebian 
+https://wiki.archlinux.org/title/System_maintenance 
+
+
+youtube: ytfzf 
+
+GNU core-utils: cd, ....... 
+
+Terminal mouse 
+gpm (general purpose mouse) 
+
+Graphical mouse 
+
+
+Switch between Terminal tabs: Ctrl + Alt + F1-F7 
+
+
+Using LibreOffice in the Terminal
+terminal libreoffice
+https://opensource.com/article/21/3/libreoffice-command-line
+https://commandmasters.com/commands/libreoffice-linux/
+
+https://github.com/scivision/office-headless
+
+Word processing: wordgrinder
+Excel/Spreadsheet: visicalc, sc (for spreadsheet calculator)
+Power Point / Slides: tpp (text presentation program)
+
+terminal email
+
+terminal status bar:
+Stux
+and also https://github.com/justincampbell/terminal-status-bar
+
+apt list --installed
+clickable terminal list of installed programs in linux
+linux start menu in the terminal
+
+terminal desktop environment
+
+
+
+Terminal emulator: Kitty (make it default)
+sudo update-alternatives --config x-terminal-emulator
+
+
+Bourne-Again Shell: bash, zsh, fish, (elisp), 
+
+
+Terminal Shell: bash autocompletion, zsh autocompletion, zim
+
+Zsh IMproved (zim)
+https://github.com/zimfw/zimfw
+With curl:
+curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+With wget:
+wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+
+chsh -s $(which zsh)
+
+chsh -s zsh 
+
+chsh
+/bin/zsh
+echo $SHELL
+
+
+Terminal bottom status bar
+Terminal start menu
+
+
+tmux - How to enable mouse:
+git clone https://github.com/dreamsofcode-io/tmux/blob/main/tmux.conf
+setw -g mouse on
+set-option -g default-shell /bin/zsh
+tmux source-file ~/tmux.conf
+
+
+vtm Monotty Desktopio
+wget https://github.com/directvt/vtm/releases/latest/download/vtm_linux_x86_64.zip
+
+unzip vtm_linux_x86_64.zip
+unzip  .tar
+
+sudo ln -s /home/sbilko/Desktop/vtm /usr/bin/
+
+https://terminalroot.com/meet-monotty-desktopio-a-desktop-environment-on-your-terminal/
+
+
+Weather:
+curl wttr.in
+curl wttr.in/sliven
+curl wttr.in/terrassa
+curl wttr.in/sherbrooke
+
+elinks
+https://duckduckgo.com
+https://lite.duckduckgo.com/lite/
+https://html.duckduckgo.com/html/
+
+Carbonyl - Chromium based browser
+$ wget https://github.com/fathyb/carbonyl/releases/latest/download/carbonyl.linux-amd64.zip
+
+$ unzip carbonyl.linux-amd64.zip && mv carbonyl-*/ carbonyl/
+$ ./carbonyl/carbonyl
+
+sudo ln -s /home/sbilko/Desktop/carbonyl-0.0.3/carbonyl /usr/bin/
+
+
+
+Browsh - browser
+https://github.com/browsh-org/browsh/releases/download/v1.8.0/browsh_1.8.0_linux_amd64.deb
+
+
+emacs' eww browser
+and emacs' email client
+
+
+Kitty can open images in the terminal too.
+
+
+
+4. If all you want is a text login, even when a graphical session has started, remember that the combination Ctrl+Alt+F1 (or F2-F6) will give you just that, a textual login. Furthermore, you can then disable your Window Manager from within this textual login,
+
+sudo systemctl stop gdm
+sudo systemctl disable sddm
+start, enable
+
+(ord kdm, lightdm, sddm,, or whatever you use), and there you have a purely textual login, no graphical session running.
+https://superuser.com/questions/974797/how-to-boot-a-linux-system-without-graphical-server
+
+Rufus: 
+https://rufus.ie/downloads/ 
+rufus-4.6.exe or later (for latest Windows) 
+rufus-3.22.exe (for Windows 7) 
+
+I should maybe only use Computers4Christians: https://computers4christians.org/ 
+Orthodox Christian Linux, 
+Ubuntu Christian Edition: https://distrowatch.com/table.php?distribution=ubuntuce 
+
+
+Tiny10 and Tiny11, 64-bit and 32-bit: 
+https://ntdev.blog/2024/01/08/the-complete-tiny10-and-tiny11-list/ 
+tiny11 2311 x64.iso 
+tiny10 x64 23h2.iso 
+tiny10 2303 x86.iso 
+
+Linuxfx Winux 7, 10, 11, Wubuntu - A Smart, Easy Way to Transition From Windows to Linux 
+https://winuxos.org/ 
+
+
+Linux Mint XFCE 64-bit: 
+https://linuxmint.com/download.php 
+linuxmint-22-xfce-64bit.iso 
+
+Zorin OS: 
+https://zorin.com/os/download/ 
+Zorin-OS-17.3-Core-64-bit-r2.iso 
+
+script Zorin OS Pro: https://github.com/NanashiTheNameless/Zorin-OS-Pro 
+
+Linux Mint debian edition 32-bit: 
+https://linuxmint.com/download_lmde.php 
+lmde-6-cinnamon-32bit.iso 
+
+Try a debian derivative like MX Linux 
+https://mxlinux.org/ 
+
+Ubuntu Server: 
+https://ubuntu.com/download/server 
+ubuntu-24.04.1-live-server-amd64.iso 
+
+How do I update Ubuntu using terminal command line: 
+https://www.cyberciti.biz/faq/upgrade-update-ubuntu-using-terminal/ 
+
+How To Upgrade Ubuntu 18.04 to 20.04 LTS using command line: 
+https://www.cyberciti.biz/faq/upgrade-ubuntu-18-04-to-20-04-lts-using-command-line/ 
+
+
+Linkat (it's always old, 22.04) 
+https://projectes.xtec.cat/linkat/el-projecte/ 
+
+Recuperar fitxers esborrats: 
+https://catux.org/posts/recuperar-fitxers-esborrats.html 
+https://www.cgsecurity.org/wiki/TestDisk_Download 
+
+
+GNU Guix System: 
+https://guix.gnu.org/en/download/ 
+guix-system-install-1.4.0.x86_64-linux.iso 
+
+Arch Linux: 
+https://archlinux.org/download/ 
+archlinux-x86_64.iso 
+
+ReactOS: 
+https://reactos.org/download/ 
+ReactOS-0.4.14-release-125-g5b02d38-iso.zip 
+reactos-bootcd-0.4.16-dev-340-g0540c21-x86-gcc-lin-rel.7z 
+
+TinyCore Linux: 
+http://tinycorelinux.net/ 
+
+Haiku OS: 
+https://www.haiku-os.org/
+
+
