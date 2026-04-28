@@ -64,6 +64,8 @@ terminal desktop environment
 Terminal bottom status bar 
 Terminal start menu 
 
+Running Windows Apps in Linux Using Wine - ExplainingComputers: 
+https://m.youtube.com/watch?v=k5XN42EEUcc 
 
 The Terminal User Interface (TUI) is efficient, lasting, stable, maybe spyware, 
 Shell: bash (Bourne-Again Shell), zsh, zim, fish, (elisp), 
