@@ -72,6 +72,9 @@ Audio: pulseaudio is not part of systemd. It works fine but you can also use pip
 Twin - a Terminal Desktop Environment 
 https://m.youtube.com/watch?v=N_HaUYrXVfQ 
 
+HomeBrew is like apt but without needing to add tons of other repositories. 
+https://m.youtube.com/watch?v=nCS4BtJ34-o 
+
 The Terminal User Interface (TUI) is efficient, lasting, stable, maybe spyware, 
 Shell: bash (Bourne-Again Shell), zsh, zim, fish, (elisp), 
 Package manager: apt, synaptic (gui), mintinstall (gui), 
