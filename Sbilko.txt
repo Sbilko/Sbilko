@@ -69,6 +69,9 @@ https://m.youtube.com/watch?v=k5XN42EEUcc
 
 Audio: pulseaudio is not part of systemd. It works fine but you can also use pipewire, alsa, oss4, etc. 
 
+Twin - a Terminal Desktop Environment 
+https://m.youtube.com/watch?v=N_HaUYrXVfQ 
+
 The Terminal User Interface (TUI) is efficient, lasting, stable, maybe spyware, 
 Shell: bash (Bourne-Again Shell), zsh, zim, fish, (elisp), 
 Package manager: apt, synaptic (gui), mintinstall (gui), 
