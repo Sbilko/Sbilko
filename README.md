@@ -14,6 +14,7 @@ https://pravoslavieto.com/docs/eng/Testament_of_John_of_Rila.htm
 
 The Life of the Most Holy Virgin Mary, the Theotokos 
 https://archive.org/details/lifeofvirginmary0000unse 
+https://www.fatheralexander.org/booklets/english/mary.htm 
 
 https://holycrossyakima.org/resources.asp 
 
