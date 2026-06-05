@@ -33,6 +33,15 @@ apt update && apt upgrade && apt install tmux nano nnn elinks htop man ncdu ncdu
 apt search fetch 
 fastfetch neofetch screenfetch cpufetch 
 
+Do exactly like Veronica Explains in: 
+- Legacy phone 
+https://veronicaexplains.net/dumbphone-summer-2026/ 
+
+- Writedeck
+https://veronicaexplains.net/my-first-writerdeck/ 
+https://veronicaexplains.net/writerdeck-faq/ 
+
+
 ------- 
 
 
