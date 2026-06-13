@@ -79,6 +79,8 @@ Terminal start menu
 
 Running Windows Apps in Linux Using Wine - ExplainingComputers: 
 https://m.youtube.com/watch?v=k5XN42EEUcc 
+How to install Windows .NET Framework in Wine: 
+https://appdb.winehq.org/objectManager.php?sClass=version&iId=10166 
 
 Audio: pulseaudio is not part of systemd. It works fine but you can also use pipewire, alsa, oss4, etc. 
 
