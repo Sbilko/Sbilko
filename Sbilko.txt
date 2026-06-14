@@ -63,8 +63,26 @@ https://m.youtube.com/@SomeOrdinaryGamers/videos
 https://m.youtube.com/watch?v=RbGhjY_B9kE 
 
 Windows CE handheld PC's look super cool, with that calculator-like LCD screen 
+https://duckduckgo.com/?q=Windows+CE+handheld+PC&ia=images&iax=images 
 
+
+I want to have that, with a Freedom OS, on a GPT-formatted SSD, 
+
+An External Battery 
+
+, with WINE, and a non-emulator that runs Android.apk and iOS programs Natively 
+And VirtualBox with ReactOS and Tiny10 just in case, 
+the SIM card USB adapter, 
+To receive calls anytime, 
+Alarm clock that Always and reliably wakes the PC, 
+With Signal, WhatsApp, Messenger notifications, 
+One of those Antenna plugged by USB that contains a non-proprietary Wifi Card, 
+With all of my text files 
+.txt and my extensionless linux txt files that don't even end in "." 
+my images encrypted in google Drive, 
 https://youtube.com/results?sp=mAEA&search_query=mobile+handheld+pc 
+https://www.gnu.org/distros/free-non-gnu-distros.html 
+https://www.fsf.org/ 
 
 ------- 
 
