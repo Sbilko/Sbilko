@@ -42,6 +42,14 @@ https://veronicaexplains.net/my-first-writerdeck/
 https://veronicaexplains.net/writerdeck-faq/ 
 
 
+Use AntiX, or devuan, or MX Linux. 
+http://lunduke.com/ 
+https://github.com/BryanLunduke/DoesItAgeVerify 
++ 
+https://youtux.org/ 
+https://youtube.com/@YouTuxChannel/videos 
+https://systemdfree.com/#distros 
+
 ------- 
 
 
@@ -603,5 +611,37 @@ http://tinycorelinux.net/
 
 Haiku OS: 
 https://www.haiku-os.org/
+
+
+
+"To run .apk files natively in Linux, you can use Waydroid, which creates a full Android system in a container, or Anbox, which allows you to run Android apps within a Linux environment. Both methods require some setup, but they provide a way to run Android applications without traditional emulators.
+ cyberpanel.net Arch Linux
+Methods to Run .apk Files Natively in Linux
+To run .apk files natively on Linux, two primary methods are available: Waydroid and Anbox. Both options allow you to execute Android applications without relying on traditional emulators.
+
+Waydroid
+Waydroid creates a full Android system within a container on your Linux machine. It offers better performance and hardware acceleration compared to other methods.
+
+Key Features of Waydroid
+Full Android System: Runs a complete Android environment.
+Performance: Enhanced performance due to hardware acceleration.
+Installation: Requires a Wayland session for optimal operation.
+Anbox
+Anbox allows you to run Android apps in a Linux environment by integrating them into your desktop. It is less resource-intensive than full virtualization.
+
+Key Features of Anbox
+Integration: Android apps run alongside native Linux applications.
+Setup: Requires installation of kernel modules and ADB for app management.
+Manual APK Installation: You can install .apk files manually using ADB.
+Comparison Table
+Feature	Waydroid	Anbox
+Full Android OS	Yes	No
+Performance	High (with hardware support)	Moderate
+Integration	Seamless with Linux desktop	Integrated with Linux apps
+Setup Complexity	Moderate	Moderate
+ADB Support	Yes	Yes
+Conclusion
+Both Waydroid and Anbox provide viable solutions for running .apk files natively on Linux. Your choice may depend on your specific needs, such as performance requirements or the level of integration desired with your Linux desktop environment." 
+https://duckduckgo.com/?q=run+.apk+natively+in+Linux&ia=web 
 
 
