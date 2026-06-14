@@ -58,7 +58,10 @@ https://github.com/rozniak/xfce-winxp-tc
 
 
 apt install root-repo 
+apt install wavemon 
 
+
+the google Chrome Linux repository source is (so you don't need to install an old Chrome before updating to the latest Chrome) the following: 
 Linux without xorg: 
 sudo apt update && apt upgrade && apt install 
 nala tmux nano nnn elinks htop man ncdu wget git zsh && git clone https://github.com/Sbilko/Sbilko && curl https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh && chsh -s zsh 
@@ -183,6 +186,12 @@ Lomiri, Budgie, Enlightenment, FVWM-Crystal, GNUstep/Window Maker, Sugar   and p
 
 Other desktop environments not available in debian include Unity (1 2), pantheon, ROX, Equinox/EDE, Étoilé, CDE, artemis, Durden, trident, Lumina   and others.
 
+nnn 
+chrony 
+fdisk 
+gparted 
+screenfetch 
+neofetch 
 Window managers: openbox fluxbox compiz 
 
 Openbox 
@@ -244,6 +253,11 @@ emacs
 wavemon ( apt install root-repo ) 
 
 
+Linux without xorg: 
+sudo apt update && apt install nala && nala upgrade && nala install 
+sudo (the same as Termux but without ncdu2, and with the following:) 
+chrony emacs ranger btop wavemon calcurse 
+
 chsh -s /bin/zsh 
 
 wget https://assets.ubuntu.com/v1/3bd0daaf-Ubuntu%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf && wget https://ergoemacs.github.io/ergoemacs-extras/ergo-layouts/ergoemacs-layout-us.png 
@@ -275,6 +289,9 @@ http://www.necopost.com/search/label/desktop%20environment
 TUI Sound control: alsamixer 
 
 
+Linux with xorg: 
+kitty vtm carbonyl browsh 
+synaptic (gui package manager) 
 
 
 command line ai
@@ -288,9 +305,25 @@ And learn how to start X Window System in Termux on Android.
 google keyboard's next word autosuggest is nice, I want it for normal Linux and Windows typing, and for the Linux command line. 
 
 
+rsync --remove-source-files -verbose 
  --remove-source-files -verbose 
 
 
+Terminal User Interface (TUI): efficient, lasting, stable, not spyware, 
+Text Editor: nano, emacs, vim, 
+Multiplexer: kitty, vtm, tmux (mouse), zellij, (gnu) screen, byobu 
+Browser: elinks, carbonyl, browsh, w3m w3m-img, links, lynx, links2, 
+Email: mutt, notmuch, claws-mail (gui) 
+File Manager: ranger, mc 
+Task manager: htop, btop 
+Wifi viewer: wavemon 
+Network/Wifi manager: 
+Time: calendar, calcurse 
+Disk space viewer: ncdu, (ncdu2) 
+SSL: ncdc 
+Music: cmus 
+Volume manager: alsamixer 
+Video: mplayer 
 --------
 
 https://www.linuxlinks.com/100-awesome-must-have-tui-linux-apps/ 
@@ -426,11 +459,21 @@ https://wiki.debian.org/DontBreakDebian
 https://wiki.archlinux.org/title/System_maintenance 
 
 
+youtube: ytfzf 
 
 
-GNU core-utils: cd, ....... 
+
+The msDOS and Windows Command Prompt basic commands are cool too: DIR, CD, DEL, RMDIR, CLEAR, EXIT, 
+In contrast, I think that the Power Shell commands and unnatural, even though they say they're powerful. 
+
+The console.log app game is Cool, I'd love to play it but can't find an .apk 
+https://play.google.com/store/apps/details?id=com.helpinggames.consolelog 
+
+GNU core-utils: cd, ls, cat, ....... 
 
 
+Terminal mouse 
+gpm (general purpose mouse) 
 
 Graphical mouse 
 
@@ -449,12 +492,20 @@ Word processing: wordgrinder
 Excel/Spreadsheet: visicalc, sc (for spreadsheet calculator)
 Power Point / Slides: tpp (text presentation program)
 
-terminal email
+terminal email: 
+like claws(?), or the Emacs in-built email client. 
+and the Emacs web browser: eww
 
+terminal status bar: 
+Stux 
 
 and also https://github.com/justincampbell/terminal-status-bar
 
+apt list --installed 
+clickable terminal list of installed programs in linux 
+linux start menu in the terminal 
 
+terminal desktop environment 
 
 
 
@@ -462,6 +513,8 @@ Terminal emulator: Kitty (make it default)
 sudo update-alternatives --config x-terminal-emulator
 
 
+Bourne-Again Shell: bash, zsh, fish, (elisp), 
+Don't confuse lisp or elisp (Emacs lisp programming language) with Lua (the one that Project Zomboid is made of). 
 
 
 
@@ -483,6 +536,8 @@ chsh
 echo $SHELL
 
 
+Terminal bottom status bar 
+Terminal start menu 
 
 
 
@@ -550,6 +605,11 @@ Rufus:
 https://rufus.ie/downloads/ 
 rufus-4.6.exe or later (for latest Windows) 
 rufus-3.22.exe (for Windows 7) 
+
+I should maybe only use Computers4Christians: https://computers4christians.org/ 
+Orthodox Christian Linux, 
+Ubuntu Christian Edition: https://distrowatch.com/table.php?distribution=ubuntuce 
+
 
 Tiny10 and Tiny11, 64-bit and 32-bit: 
 https://ntdev.blog/2024/01/08/the-complete-tiny10-and-tiny11-list/ 
