@@ -40,6 +40,11 @@ https://veronicaexplains.net/dumbphone-summer-2026/
 - Writedeck
 https://veronicaexplains.net/my-first-writerdeck/ 
 https://veronicaexplains.net/writerdeck-faq/ 
+https://youtube.com/watch?v=E7vFdy4BEAY 
+How did she manage the tmux Ctrl+- resize? 
+
+sudo apt update && apt upgrade && apt install xfce4 xfce4-goodies 
+sudo dpkg-reconfigure lightdm sddm gdm3 
 
 
 Use AntiX, or devuan, or MX Linux. 
