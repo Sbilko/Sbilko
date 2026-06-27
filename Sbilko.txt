@@ -102,6 +102,11 @@ An External Battery
 With a Solar Panel too 
 Something cheap and Disconnected from the grid, something which the Amish and Old Believers would use for work. 
 
+Virtual Machine pass-through, so it runs just as smoothly as on Windows. 
+"I Made The Greatest Windows 11 Virtual Machine...
+SomeOrdinaryGamer" 
+https://youtube.com/watch?v=WYrTajuYhCk 
+
 , with WINE, and a non-emulator that runs Android.apk and iOS programs Natively 
 And VirtualBox with ReactOS and Tiny10 just in case, 
 the SIM card USB adapter, 
