@@ -815,3 +815,76 @@ Both Waydroid and Anbox provide viable solutions for running .apk files natively
 https://duckduckgo.com/?q=run+.apk+natively+in+Linux&ia=web 
 
 
+
+
+
+,lxde touchpad click.txt 
+"Activate tap to click on touchpad
+https://unix.stackexchange.com/questions/337008/ddg#337218
+Debian Jessie
+
+To enable the touchpad tapping permanently , copy the 50-synaptics.conf file to /etc/X11/xorg.conf.d then edit it by adding Option "TapButton1" "1" .
+
+As root:
+
+mkdir /etc/X11/xorg.conf.d
+cp /usr/share/X11/xorg.conf.d/50-synaptics.conf /etc/X11/xorg.conf.d/50-synaptics.conf
+The /etc/X11/xorg.conf.d/50-synaptics.conf should be:
+
+Section "InputClass"
+        Identifier "touchpad catchall"
+        Driver "synaptics"
+        MatchIsTouchpad "on"
+        Option "TapButton1" "1"
+        Option "TapButton2" "3"
+Reboot your system
+
+Debian Stretch and Buster (updated)
+
+Remove the xserver-xorg-input-synaptics package. (important)
+
+# apt remove xserver-xorg-input-synaptics
+Install xserver-xorg-input-libinput:
+
+# apt install xserver-xorg-input-libinput
+In most cases, make sure you have the xserver-xorg-input-libinput package installed, and not the xserver-xorg-input-synaptics package.
+
+As root:
+
+create /etc/X11/xorg.conf.d/
+
+mkdir /etc/X11/xorg.conf.d
+Create the 40-libinput.conf file:
+
+echo 'Section "InputClass"
+        Identifier "libinput touchpad catchall"
+        MatchIsTouchpad "on"
+        MatchDevicePath "/dev/input/event*"
+        Driver "libinput"
+        Option "Tapping" "on"
+EndSection' > /etc/X11/xorg.conf.d/40-libinput.conf
+restart your DM; e,g:
+
+# systemctl restart lightdm
+or
+
+# systemctl restart gdm3
+Debian wiki : Enable tapping on touchpad
+
+--GAD3R" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
