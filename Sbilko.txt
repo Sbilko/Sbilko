@@ -122,6 +122,14 @@ https://www.gnu.org/distros/free-non-gnu-distros.html
 https://www.fsf.org/ 
 
 
+https://christitus.com/windows-tool/ 
+Run in an elevated PowerShell (Run as Administrator): 
+irm christitus.com/win | iex 
+
+christitus.com/win 
+
+
+
 Saint Seraphim of Sarov, please Pray for us 🙏☦️ 
 "Christ is risen, my Joy! 🙇‍♂️☺️✨ " 
 
